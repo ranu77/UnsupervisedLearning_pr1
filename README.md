@@ -28,7 +28,7 @@ Customer segmentation on the Mall Customers dataset using three clustering algor
 4. **Hierarchical:** Ward-linkage dendrogram, model fit, comparison with K-Means
 5. **DBSCAN:** 4-NN distance plot, eps × min_samples grid search, noise detection
 6. **Comparison:** three-panel figure, metrics table, business insights
-7. **Submission:** Restart & Run All, HTML export, requirements file
+7. **Submission:** Restart & Run All, requirements file
 
 ---
 
@@ -71,7 +71,6 @@ Density-based algorithm controlled by `eps` (neighbourhood radius) and `min_samp
 
 ```
 ├── pr1.ipynb
-├── UL_PR1.html
 ├── Mall_Customers.csv
 ├── requirements.txt
 ├── README.md
