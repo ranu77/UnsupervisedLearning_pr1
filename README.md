@@ -45,16 +45,6 @@ Density-based algorithm controlled by `eps` (neighbourhood radius) and `min_samp
 
 ---
 
-## Results
-
-| Algorithm | n_clusters | Silhouette | Davies-Bouldin | Calinski-Harabasz |
-|---|---|---|---|---|
-| K-Means | `<>` | `<>` | `<>` | `<>` |
-| Hierarchical | `<>` | `<>` | `<>` | `<>` |
-| DBSCAN (noise excluded) | `<>` | `<>` | `<>` | `<>` |
-
-**Recommendation:** K-Means for deployment, as it is the most interpretable for a marketing team.
-
 ### Customer Segments (K-Means)
 
 | Segment | Suggested Marketing Action |
