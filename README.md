@@ -9,7 +9,7 @@ Customer segmentation on the Mall Customers dataset using three clustering algor
 - **Name:** Mall Customer Segmentation Data
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - **File:** `Mall_Customers.csv` (200 rows, 5 columns, no missing values)
-- 
+  
 | Column | Description |
 |---|---|
 | CustomerID | Unique ID (dropped before modelling) |
